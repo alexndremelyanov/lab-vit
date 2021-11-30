@@ -1,0 +1,9 @@
+C:\Users\dvorn\source\repos\VITCPPLab2\Debug\VITCPPLab2.vcxproj.AssemblyReference.cache
+C:\Users\dvorn\source\repos\VITCPPLab2\Debug\VITCPPLab2.exe
+C:\Users\dvorn\source\repos\VITCPPLab2\Debug\VITCPPLab2.FFirst.resources
+C:\Users\dvorn\source\repos\VITCPPLab2\Debug\VITCPPLab2.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\VITCPPLab2\Debug\VITCPPLab2.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\VITCPPLab2\Debug\VITCPPLab2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\VITCPPLab2\Debug\VITCPPLab2.FFirst.resources
+C:\Users\User\source\repos\VITCPPLab2\Debug\VITCPPLab2.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\VITCPPLab2\Debug\VITCPPLab2.exe

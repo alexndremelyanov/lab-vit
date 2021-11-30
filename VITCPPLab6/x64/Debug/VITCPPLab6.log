@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(693,5): error MSB6006: "CL.exe" завершилась с кодом 2.
+C:\Users\User\source\repos\VITCPPLab6\MyForm.cpp(10,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.

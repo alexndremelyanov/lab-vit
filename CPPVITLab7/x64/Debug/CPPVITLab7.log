@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\CPPVITLab7\Class.h(10,33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Class.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CPPVITLab7.vcxproj -> C:\Users\User\source\repos\CPPVITLab7\x64\Debug\CPPVITLab7.exe

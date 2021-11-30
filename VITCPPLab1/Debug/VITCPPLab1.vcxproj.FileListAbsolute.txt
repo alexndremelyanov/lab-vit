@@ -1,0 +1,4 @@
+C:\Users\dvorn\source\repos\VITCPPLab1\Debug\VITCPPLab1.vcxproj.AssemblyReference.cache
+C:\Users\dvorn\source\repos\VITCPPLab1\Debug\VITCPPLab1.exe
+C:\Users\dvorn\source\repos\VITCPPLab1\Debug\VITCPPLab1.FFirst.resources
+C:\Users\dvorn\source\repos\VITCPPLab1\Debug\VITCPPLab1.vcxproj.GenerateResource.cache

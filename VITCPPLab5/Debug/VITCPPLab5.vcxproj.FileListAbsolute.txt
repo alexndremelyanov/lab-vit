@@ -1,0 +1,9 @@
+C:\Users\dvorn\source\repos\VITCPPLab5\Debug\VITCPPLab5.vcxproj.AssemblyReference.cache
+C:\Users\dvorn\source\repos\VITCPPLab5\Debug\VITCPPLab5.MyForm.resources
+C:\Users\dvorn\source\repos\VITCPPLab5\Debug\VITCPPLab5.vcxproj.GenerateResource.cache
+C:\Users\dvorn\source\repos\VITCPPLab5\Debug\VITCPPLab5.exe
+C:\Users\User\source\repos\VITCPPLab5\Debug\VITCPPLab5.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\VITCPPLab5\Debug\VITCPPLab5.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\VITCPPLab5\Debug\VITCPPLab5.MyForm.resources
+C:\Users\User\source\repos\VITCPPLab5\Debug\VITCPPLab5.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\VITCPPLab5\Debug\VITCPPLab5.exe

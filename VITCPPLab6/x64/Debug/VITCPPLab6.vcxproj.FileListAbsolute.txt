@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\VITCPPLab6\x64\Debug\VITCPPLab6.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\VITCPPLab6\x64\Debug\VITCPPLab6.MyForm.resources
+C:\Users\User\source\repos\VITCPPLab6\x64\Debug\VITCPPLab6.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\VITCPPLab6\x64\Debug\VITCPPLab6.dll

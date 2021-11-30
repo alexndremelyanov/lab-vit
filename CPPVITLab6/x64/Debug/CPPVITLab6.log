@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\CPPVITLab6\MyForm.h(436,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CPPVITLab6.vcxproj -> C:\Users\User\source\repos\CPPVITLab6\x64\Debug\CPPVITLab6.exe
